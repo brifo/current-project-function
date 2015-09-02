@@ -1,0 +1,1 @@
+This plugins provides a JQL function "currentProject()" which returns a current project for a user.
